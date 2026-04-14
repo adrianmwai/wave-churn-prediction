@@ -79,4 +79,4 @@ Using  with churn probability as the objective weight.
 |  | GET | Service health check |
 
 ## Author
-Built as part of a targeted portfolio for the Wave Mobile Money Data Scientist role.
+Andrian Mwai.
